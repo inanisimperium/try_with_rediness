@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>CO2 Emission Predictor</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Weight Predictor</h1>
+     <h3> Enter the following values to predict the weight of the rabbit</h3>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="height" placeholder="Rabbit Height in Inches" required="required" />
+      <input type="text" name="width" placeholder="Rabbit Width in Inches" required="required" />
+		  <!-- <input type="text" name="fuel" placeholder="Fuel" required="required" /> -->
+
+        <button type="submit" class="btn">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   
+   <div id="prediction"> 
+   {{ prediction_text }}
+   </div>
+   <!-- script from codepen -->
+   <script>
+      var input = 
+          document.getElementById('input'),
+          button = document.getElementById('button'),
+          output = document.getElementById('output'),
+          data1 = 'Not ready to butcher',
+          data2 = 'Ready to butcher';
+
+      prediction.addEventListener("", function() {
+          if(input.value <= '6') {
+              output.innerHTML = data1;
+          } else if (input.value >= '7') {
+              output.innerText = data2;
+          } else {
+              output.innerHTML = 'Nothing Found!';
+          }
+      });
+   </script>
+   <!-- script from codepen -->
+ </div>
+
+
+</body>
+</html>

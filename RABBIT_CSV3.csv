@@ -1,0 +1,281 @@
+breed,age,height,width,weight,label
+Californian White Rabbit,1,2.6,2,0.2,0
+Californian White Rabbit,1,2.5,2,0.18,0
+Californian White Rabbit,1,2.9,2.5,0.385,0
+Californian White Rabbit,1,2.8,2.3,0.35,0
+Californian White Rabbit,1,2.6,2.1,0.21,0
+Californian White Rabbit,1,3,2.2,0.4,0
+New Zealand White Rabbit,1,2.9,2.4,0.38,0
+New Zealand White Rabbit,1,2.5,2,0.18,0
+New Zealand White Rabbit,1,2.4,1.9,0.15,0
+New Zealand White Rabbit,1,2.9,2.5,0.385,0
+New Zealand White Rabbit,1,2.8,2.3,0.35,0
+Californian White Rabbit,1,2.7,2.2,0.33,0
+Californian White Rabbit,1,2.6,2.1,0.21,0
+New Zealand White Rabbit,1,2.7,2.2,0.32,0
+New Zealand White Rabbit,1,2.8,2.3,0.35,0
+New Zealand White Rabbit,1,2.4,2,0.155,0
+New Zealand White Rabbit,2,3,2.5,0.43,0
+New Zealand White Rabbit,2,3.1,2.6,0.445,0
+New Zealand White Rabbit,2,3.6,2.1,0.5,0
+New Zealand White Rabbit,2,3.1,2.5,0.44,0
+Californian White Rabbit,2,3,2.5,0.43,0
+Californian White Rabbit,2,3.6,3.1,0.51,0
+Californian White Rabbit,2,3.7,3.2,0.52,0
+New Zealand White Rabbit,2,3,2.5,0.43,0
+Californian White Rabbit,2,3.6,3.1,0.51,0
+New Zealand White Rabbit,2,3.5,3,0.48,0
+New Zealand White Rabbit,2,3.4,3,0.47,0
+Californian White Rabbit,2,3.6,3.1,0.51,0
+Californian White Rabbit,2,3,2.5,0.43,0
+Californian White Rabbit,2,3.2,2.5,0.45,0
+New Zealand White Rabbit,2,3.3,2.8,0.46,0
+New Zealand White Rabbit,2,3.3,2.8,0.46,0
+Californian White Rabbit,3,3.9,3.5,0.585,0
+Californian White Rabbit,3,3.8,3.3,0.55,0
+New Zealand White Rabbit,3,3.6,3.1,0.51,0
+New Zealand White Rabbit,3,3.9,3.4,0.58,0
+New Zealand White Rabbit,3,3.5,3,0.48,0
+New Zealand White Rabbit,3,3.9,3.4,0.58,0
+New Zealand White Rabbit,3,3.6,3.1,0.51,0
+New Zealand White Rabbit,3,3.7,3.2,0.52,0
+New Zealand White Rabbit,3,3.7,3.2,0.52,0
+New Zealand White Rabbit,3,3.9,3.4,0.58,0
+New Zealand White Rabbit,3,3.4,3.5,0.478,0
+New Zealand White Rabbit,3,3.4,2.9,0.47,0
+New Zealand White Rabbit,3,3.5,3,0.48,0
+New Zealand White Rabbit,3,3.4,2.9,0.47,0
+Californian White Rabbit,4,3.9,3.4,0.58,0
+Californian White Rabbit,4,4,3.5,0.6,0
+Californian White Rabbit,4,4.1,3.6,0.63,0
+Californian White Rabbit,4,4.1,3.6,0.63,0
+New Zealand White Rabbit,4,3.95,3.55,0.595,0
+New Zealand White Rabbit,4,4,3.5,0.6,0
+New Zealand White Rabbit,4,4.05,3.5,0.62,0
+New Zealand White Rabbit,4,3.93,3.5,0.54,0
+New Zealand White Rabbit,4,4.1,3.6,0.63,0
+New Zealand White Rabbit,4,3.98,3.5,0.59,0
+New Zealand White Rabbit,4,4.08,3.5,0.62,0
+New Zealand White Rabbit,4,3.98,3.4,0.59,0
+New Zealand White Rabbit,4,3.9,3.4,0.58,0
+New Zealand White Rabbit,4,4.1,3.5,0.63,0
+New Zealand White Rabbit,4,3.92,3.4,0.58,0
+New Zealand White Rabbit,4,3.9,3.4,0.58,0
+Californian White Rabbit,5,4.22,3.7,0.64,0
+Californian White Rabbit,5,4.25,3.7,0.65,0
+Californian White Rabbit,5,4.2,3.7,0.63,0
+Californian White Rabbit,5,4.27,3.7,0.66,0
+Californian White Rabbit,5,4.23,3.6,0.64,0
+Californian White Rabbit,5,4.28,3.7,0.67,0
+Californian White Rabbit,5,4.3,3.8,0.68,0
+Californian White Rabbit,5,4.2,3.7,0.63,0
+New Zealand White Rabbit,5,4.25,3.6,0.65,0
+New Zealand White Rabbit,5,4.29,3.7,0.67,0
+New Zealand White Rabbit,5,4.2,3.7,0.63,0
+New Zealand White Rabbit,5,4.3,3.8,0.68,0
+New Zealand White Rabbit,5,4.22,3.72,0.64,0
+New Zealand White Rabbit,5,4.21,3.71,0.63,0
+New Zealand White Rabbit,5,4.26,3.76,0.66,0
+Californian White Rabbit,5,4.3,3.8,0.68,0
+Californian White Rabbit,6,4.32,3.82,0.7,0
+Californian White Rabbit,6,4.38,3.88,0.73,0
+Californian White Rabbit,6,4.48,3.98,0.78,0
+Californian White Rabbit,6,4.5,4,0.8,0
+Californian White Rabbit,6,4.45,3.95,0.77,0
+Californian White Rabbit,6,4.35,3.85,0.72,0
+Californian White Rabbit,6,4.49,3.99,0.79,0
+Californian White Rabbit,6,4.45,3.95,0.77,0
+New Zealand White Rabbit,6,4.34,4.47,0.71,0
+New Zealand White Rabbit,6,4.4,4.9,0.755,0
+New Zealand White Rabbit,6,4.46,4.9,0.76,0
+Californian White Rabbit,6,4.5,4,0.8,0
+Californian White Rabbit,6,4.4,3.9,0.75,0
+Californian White Rabbit,6,4.37,3.87,0.73,0
+New Zealand White Rabbit,6,4.49,3.99,0.79,0
+New Zealand White Rabbit,6,4.32,3.82,0.7,0
+Californian White Rabbit,7,4.52,4,0.9,0
+Californian White Rabbit,7,4.6,4.1,1,0
+Californian White Rabbit,7,4.55,4,0.93,0
+Californian White Rabbit,7,4.56,4.06,0.94,0
+Californian White Rabbit,7,4.57,4.07,0.95,0
+Californian White Rabbit,7,4.59,4.09,0.99,0
+New Zealand White Rabbit,7,4.58,4.08,0.96,0
+New Zealand White Rabbit,7,4.54,4,0.92,0
+New Zealand White Rabbit,7,4.6,4.1,1,0
+New Zealand White Rabbit,7,4.52,4,0.9,0
+Californian White Rabbit,7,4.53,4,0.91,0
+Californian White Rabbit,7,4.6,4.1,1,0
+Californian White Rabbit,7,4.59,4.09,0.99,0
+Californian White Rabbit,7,4.53,4,0.91,0
+Californian White Rabbit,7,4.6,4.1,1,0
+New Zealand White Rabbit,8,4.62,4.12,1.15,0
+Californian White Rabbit,8,4.8,4.3,1.21,0
+Californian White Rabbit,8,4.7,4.2,1.183,0
+Californian White Rabbit,8,4.75,4.25,1.197,0
+Californian White Rabbit,8,4.78,4.28,1.197,0
+Californian White Rabbit,8,4.73,4.23,1.185,0
+Californian White Rabbit,8,4.65,4.15,1.165,0
+Californian White Rabbit,8,4.64,4.14,1.165,0
+New Zealand White Rabbit,8,4.72,4.22,1.185,1
+Californian White Rabbit,8,4.69,4.18,1.182,0
+Californian White Rabbit,8,4.68,4.18,1.17,0
+New Zealand White Rabbit,8,4.76,4.26,1.193,0
+Californian White Rabbit,8,4.71,4.21,0.97,0
+Californian White Rabbit,8,4.79,4.29,1.2,0
+Californian White Rabbit,8,4.73,4.23,1.185,0
+Californian White Rabbit,8,4.7,4.2,1.183,0
+Californian White Rabbit,8,4.67,4.17,1.18,0
+Californian White Rabbit,8,4.68,4.18,1.19,0
+New Zealand White Rabbit,8,4.63,4.13,1.16,0
+New Zealand White Rabbit,9,4.82,4.32,1.25,0
+New Zealand White Rabbit,9,4.9,4.4,1.3,0
+Californian White Rabbit,9,4.83,4.34,1.262,0
+Californian White Rabbit,9,4.89,4.38,1.292,0
+Californian White Rabbit,9,4.91,4.41,1.32,0
+Californian White Rabbit,9,4.88,4.38,1.28,0
+New Zealand White Rabbit,9,4.86,4.36,1.272,0
+New Zealand White Rabbit,9,4.84,4.34,1.262,0
+New Zealand White Rabbit,9,4.87,4.37,1.272,0
+New Zealand White Rabbit,9,4.9,4.5,1.31,0
+Californian White Rabbit,9,4.82,4.33,1.252,0
+Californian White Rabbit,9,4.87,4.37,1.273,0
+Californian White Rabbit,9,4.84,4.34,1.26,0
+Californian White Rabbit,9,4.85,4.35,1.267,0
+Californian White Rabbit,9,4.89,4.37,1.29,0
+Californian White Rabbit,9,4.86,4.39,1.274,0
+Californian White Rabbit,9,4.83,4.33,1.26,0
+Californian White Rabbit,9,4.9,4.5,1.31,0
+Californian White Rabbit,9,4.86,4.35,1.27,0
+Californian White Rabbit,9,4.89,4.39,1.29,0
+New Zealand White Rabbit,10,4.92,4.43,1.352,0
+New Zealand White Rabbit,10,5,4.5,1.4,0
+Californian White Rabbit,10,4.95,4.44,1.38,0
+Californian White Rabbit,10,4.94,4.43,1.36,0
+Californian White Rabbit,10,4.97,4.49,1.386,0
+Californian White Rabbit,10,4.98,4.47,1.39,0
+New Zealand White Rabbit,10,4.89,4.39,1.3,0
+New Zealand White Rabbit,10,4.93,4.42,1.35,0
+New Zealand White Rabbit,10,4.99,4.5,1.4,0
+Californian White Rabbit,10,4.96,4.46,1.37,0
+Californian White Rabbit,10,5,4.5,1.4,0
+New Zealand White Rabbit,10,5.01,4.54,1.42,0
+New Zealand White Rabbit,10,4.95,4.45,1.383,0
+Californian White Rabbit,10,4.96,4.93,1.37,0
+Californian White Rabbit,10,4.92,4.42,1.35,0
+New Zealand White Rabbit,10,4.97,4.46,1.364,0
+New Zealand White Rabbit,10,4.96,4.46,1.37,0
+Californian White Rabbit,10,4.98,4.58,1.395,0
+Californian White Rabbit,10,4.94,4.54,1.365,0
+New Zealand White Rabbit,11,5.2,4.7,1.45,0
+New Zealand White Rabbit,11,5.3,4.8,1.5,0
+Californian White Rabbit,11,5.23,4.74,1.462,0
+Californian White Rabbit,11,5.25,4.75,1.473,0
+Californian White Rabbit,11,5.28,4.78,1.478,0
+New Zealand White Rabbit,11,5.24,4.74,1.461,0
+New Zealand White Rabbit,11,5.3,4.8,1.5,0
+New Zealand White Rabbit,11,5.27,4.76,1.475,0
+New Zealand White Rabbit,11,5.21,4.7,1.45,0
+Californian White Rabbit,11,5.29,4.5,1.49,0
+Californian White Rabbit,11,5.25,4.74,1.47,0
+Californian White Rabbit,11,5.2,4.7,1.45,0
+New Zealand White Rabbit,11,5.24,4.73,1.46,0
+New Zealand White Rabbit,11,5.27,4.76,1.475,0
+New Zealand White Rabbit,11,5.26,4.75,1.48,0
+New Zealand White Rabbit,11,5.32,4.8,1.52,0
+Californian White Rabbit,11,5.28,4.78,1.478,0
+Californian White Rabbit,11,5.21,4.71,1.452,0
+Californian White Rabbit,11,5.23,4.72,1.46,0
+New Zealand White Rabbit,12,5.32,4.8,1.55,0
+New Zealand White Rabbit,12,5.5,5,1.6,0
+Californian White Rabbit,12,5.4,4.9,1.575,0
+Californian White Rabbit,12,5.36,4.85,1.562,0
+Californian White Rabbit,12,5.39,6,1.57,0
+Californian White Rabbit,12,5.42,4.92,1.58,0
+Californian White Rabbit,12,5.49,4.98,1.59,0
+Californian White Rabbit,12,5.5,5,1.6,0
+Californian White Rabbit,12,5.49,4.99,1.592,0
+Californian White Rabbit,12,5.45,4.95,1.585,0
+New Zealand White Rabbit,12,5.43,4.92,1.58,0
+New Zealand White Rabbit,12,5.47,4.96,1.586,0
+New Zealand White Rabbit,12,5.37,4.85,1.563,0
+New Zealand White Rabbit,12,5.41,4.9,1.576,0
+New Zealand White Rabbit,12,5.46,4.95,1.578,0
+New Zealand White Rabbit,12,5.35,4.85,1.56,0
+Californian White Rabbit,12,5.46,4.96,1.579,0
+Californian White Rabbit,12,5.38,4.87,1.565,0
+New Zealand White Rabbit,13,5.52,5.02,1.65,0
+New Zealand White Rabbit,13,5.6,5.1,1.703,0
+New Zealand White Rabbit,13,5.55,5.05,1.67,0
+New Zealand White Rabbit,13,5.53,5.03,1.663,0
+New Zealand White Rabbit,13,5.57,5.06,1.68,0
+Californian White Rabbit,13,5.59,5.09,1.702,0
+Californian White Rabbit,13,5.58,5.08,1.69,0
+Californian White Rabbit,13,5.53,5,1.66,0
+Californian White Rabbit,13,5.56,5.06,1.672,0
+Californian White Rabbit,13,5.6,5.1,1.703,0
+New Zealand White Rabbit,13,5.59,5.08,1.7,0
+New Zealand White Rabbit,13,5.58,5.08,1.69,0
+New Zealand White Rabbit,13,5.53,5.03,1.663,0
+New Zealand White Rabbit,13,5.52,5.02,1.65,1
+Californian White Rabbit,13,5.6,5.1,1.703,0
+Californian White Rabbit,13,5.57,5.07,1.681,0
+Californian White Rabbit,13,5.59,5.09,1.702,0
+Californian White Rabbit,13,5.53,5.03,1.663,0
+Californian White Rabbit,13,5.54,5.04,1.665,0
+New Zealand White Rabbit,14,5.62,5.12,1.75,1
+New Zealand White Rabbit,14,5.7,5.2,1.802,1
+New Zealand White Rabbit,14,5.67,5.17,1.785,1
+New Zealand White Rabbit,14,5.69,5.19,1.8,1
+New Zealand White Rabbit,14,5.62,5.12,1.75,1
+Californian White Rabbit,14,5.66,5.16,1.77,1
+Californian White Rabbit,14,5.63,5.13,1.753,1
+Californian White Rabbit,14,5.68,5.18,1.79,1
+Californian White Rabbit,14,5.65,5.15,1.763,1
+Californian White Rabbit,14,5.7,5.2,1.802,1
+New Zealand White Rabbit,14,5.62,5.12,1.75,1
+New Zealand White Rabbit,14,5.69,5.19,1.8,1
+New Zealand White Rabbit,14,5.63,5.13,1.753,1
+New Zealand White Rabbit,14,5.68,5.17,1.78,1
+Californian White Rabbit,14,5.64,5.14,1.76,1
+Californian White Rabbit,14,5.67,5.15,1.78,1
+Californian White Rabbit,14,5.65,5.14,1.76,1
+Californian White Rabbit,14,6.66,5.16,1.77,1
+Californian White Rabbit,14,5.7,5.2,1.802,1
+New Zealand White Rabbit,15,5.72,5.22,1.85,1
+Californian White Rabbit,15,5.9,5.4,1.952,1
+New Zealand White Rabbit,15,5.8,5.3,1.9,1
+Californian White Rabbit,15,5.75,5.25,1.87,1
+Californian White Rabbit,15,5.85,5.35,1.92,1
+Californian White Rabbit,15,5.88,5.38,1.94,1
+Californian White Rabbit,15,5.74,5.24,1.86,1
+New Zealand White Rabbit,15,5.83,5.33,1.913,1
+New Zealand White Rabbit,15,5.89,5.39,1.95,1
+New Zealand White Rabbit,15,5.9,5.4,1.952,1
+Californian White Rabbit,15,5.8,5.3,1.9,1
+Californian White Rabbit,15,5.75,5.25,1.87,1
+Californian White Rabbit,15,5.72,5.22,1.85,1
+Californian White Rabbit,15,5.84,5.34,1.2,1
+Californian White Rabbit,15,5.86,5.36,1.93,1
+New Zealand White Rabbit,15,5.81,5.31,1.91,1
+New Zealand White Rabbit,15,5.76,5.26,1.873,1
+New Zealand White Rabbit,15,5.78,5.28,1.89,1
+New Zealand White Rabbit,15,5.87,5.37,1.93,1
+Californian White Rabbit,16,5.92,5.42,2,1
+New Zealand White Rabbit,16,6,5.5,2.3,1
+Californian White Rabbit,16,5.94,5.44,2.1,1
+Californian White Rabbit,16,5.96,5.46,2.2,1
+Californian White Rabbit,16,5.95,5.45,2.18,1
+Californian White Rabbit,16,5.94,5.44,2.13,1
+Californian White Rabbit,16,5.96,5.46,2.2,1
+Californian White Rabbit,16,5.93,5.43,2.05,1
+New Zealand White Rabbit,16,5.98,5.48,2.28,1
+Californian White Rabbit,16,5.99,5.49,2.29,1
+New Zealand White Rabbit,16,6,5.5,2.3,1
+Californian White Rabbit,16,5.97,5.46,2.27,1
+New Zealand White Rabbit,16,5.94,5.43,2.1,1
+Californian White Rabbit,16,5.96,5.46,2.2,1
+New Zealand White Rabbit,16,5.96,5.45,2.21,1
+New Zealand White Rabbit,16,5.99,5.5,2.293,1
+Californian White Rabbit,16,5.92,5.42,2,1
+Californian White Rabbit,16,5.95,5.45,2.18,1
+Californian White Rabbit,16,5.93,5.43,2.05,1
